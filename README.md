@@ -28,7 +28,7 @@
    <img src="https://i.imgur.com/ma5qkl2.png" height="40%" width="40%" alt="homelab"/>
    <img src="https://i.imgur.com/QrPQfrH.png" height="40%" width="40%" alt="homelab"/>
 
-7. Wait for the installation to be completed.
+7. Wait for the installation to be completed & eject the USB.
 
    <img src="https://i.imgur.com/eeyIt3v.png" height="40%" width="40%" alt="homelab"/>
    <img src="https://i.imgur.com/6w4STEf.png" height="40%" width="40%" alt="homelab"/>
