@@ -23,10 +23,10 @@
    <img src="https://i.imgur.com/wMR4sWT.png" height="40%" width="40%" alt="homelab"/>
    <img src="https://i.imgur.com/nq7oYns.png" height="40%" width="40%" alt="homelab"/>
    
-6. Select the USB drive inserted and proceed with installation.
+6. Select the USB drive inserted and proceed with the installation.
 
-   <img src="https://i.imgur.com/ma5qkl2.png" height="80%" width="80%" alt="homelab"/>
-   <img src="https://i.imgur.com/QrPQfrH.png" height="80%" width="80%" alt="homelab"/>
+   <img src="https://i.imgur.com/ma5qkl2.png" height="40%" width="40%" alt="homelab"/>
+   <img src="https://i.imgur.com/QrPQfrH.png" height="40%" width="40%" alt="homelab"/>
 
 7. Wait for the installation to be completed.
 
