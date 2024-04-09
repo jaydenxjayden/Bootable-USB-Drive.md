@@ -1,4 +1,4 @@
-<h1>The main objective is to create a Windows 10 bootable USB drive that installs a clean version of Windows 10 on the system.</h1>
+<h1>Creating a Windows 10 bootable USB drive that installs a clean version of Windows 10 on the system.</h1>
 
 1. This is an old USB drive with storage of 32GB which I will be using to keep the Windows 10.
 
